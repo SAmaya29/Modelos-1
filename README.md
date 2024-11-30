@@ -19,4 +19,5 @@ Desarrollado por:
 2. Realizar modelo precitivo con al menos 2 preprocesados diferentes
 
 ### Video youtube:
+https://youtu.be/KgsVxDYBgsg
 
